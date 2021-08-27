@@ -83,4 +83,4 @@ class IpAddress {
 }
 
 
-module.exports = new 
+module.exports = new IpAddress;
